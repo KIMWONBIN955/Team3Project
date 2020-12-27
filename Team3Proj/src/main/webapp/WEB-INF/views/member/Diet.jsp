@@ -12,7 +12,7 @@
 					<div class="hello">
 						<div class="slid_item">
 							<div class="home_text ">
-								<h1 class="text-yellow">Diet</h1>
+								<h1 class="text-yellow">Diet!</h1>
 							</div>
 						</div>
 					</div>
